@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 Integrated Terminal
 
+=======
+>>>>>>> bb267264b1a2e306264d4c96e61873b89283f508
 In Visual Studio Code, you can open an integrated terminal, initially starting at the root of your workspace. This can be convenient as you don't have to switch windows or alter the state of an existing terminal to perform a quick command-line task.
 
 To open the terminal:
 
 Use the Ctrl+` keyboard shortcut with the backtick character.
 Use the View > Terminal menu command.
+<<<<<<< HEAD
 From the Command Palette (Ctrl+Shift+P), use the View: Toggle Integrated Terminal command.
+=======
+From the Command Palette (Ctrl+Shift+P), use the View: Toggle Integrated Terminal command.
+>>>>>>> bb267264b1a2e306264d4c96e61873b89283f508
