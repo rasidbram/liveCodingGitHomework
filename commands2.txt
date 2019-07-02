@@ -1,0 +1,12 @@
+Managing multiple terminals
+
+You can create multiple terminals open to different locations and easily navigate between them. 
+Terminal instances can be added by clicking the plus icon on the top-right of the TERMINAL panel or by triggering the Ctrl+Shift+` command. 
+This action creates another entry in the drop-down list that can be used to switch between them.
+
+Multiple Terminals
+
+Remove terminal instances by pressing the trash can button.
+
+Tip: If you use multiple terminals extensively, you can add key bindings for the focusNext, focusPrevious and kill commands outlined 
+in the Key Bindings section to allow navigation between them using only the keyboard.
