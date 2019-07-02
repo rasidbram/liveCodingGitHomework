@@ -1,0 +1,9 @@
+git clone https://github.com/ekocibar/liveCodingGitHomework
+cd liveCodingGitHomework
+git branch Erdinc-dev
+git checkout Erdinc-dev
+touch commands.txt
+ls -a
+git add commands.txt
+git push --set-upstream origin Erdinc-dev
+git status
