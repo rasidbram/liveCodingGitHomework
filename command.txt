@@ -1,0 +1,3 @@
+git status-Lists all new or modified files to be commited
+git add- snapshots the file in preparation for versioning
+git branch- list all local branches in the current repository
