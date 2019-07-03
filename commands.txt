@@ -1,0 +1,4 @@
+some bash commands can be here
+cd - Change directory
+mkdir - Make Directory
+cd .. - to upper-parent folder
